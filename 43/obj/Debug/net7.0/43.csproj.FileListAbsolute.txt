@@ -1,0 +1,15 @@
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/bin/Debug/net7.0/43
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/bin/Debug/net7.0/43.deps.json
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/bin/Debug/net7.0/43.runtimeconfig.json
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/bin/Debug/net7.0/43.dll
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/bin/Debug/net7.0/43.pdb
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/43.csproj.AssemblyReference.cache
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/43.AssemblyInfoInputs.cache
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/43.AssemblyInfo.cs
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/43.csproj.CoreCompileInputs.cache
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/43.dll
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/refint/43.dll
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/43.pdb
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/43.genruntimeconfig.cache
+/Users/olesagujman/Desktop/GB/C#/HomeWork/hw6/43/obj/Debug/net7.0/ref/43.dll
